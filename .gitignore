@@ -6,3 +6,4 @@ backend/target/
 .playwright-cli/
 output/
 *.log
+!.env.practical.example
